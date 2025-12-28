@@ -1,0 +1,13 @@
+{
+  "itemGroup.huevofritomod": "Pestaña",
+  "block.huevofritomod.example_block": "Bloque Huevo Frito",
+  "item.huevofritomod.huevofrito": "Huevo Frito",
+
+  "huevofritomod.configuration.title": "Example Mod Configs",
+  "huevofritomod.configuration.section.huevofritomod.common.toml": "Example Mod Configs",
+  "huevofritomod.configuration.section.huevofritomod.common.toml.title": "Example Mod Configs",
+  "huevofritomod.configuration.items": "Item List",
+  "huevofritomod.configuration.logDirtBlock": "Log Dirt Block",
+  "huevofritomod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "huevofritomod.configuration.magicNumber": "Magic Number"
+}
